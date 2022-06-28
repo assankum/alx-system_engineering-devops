@@ -1,2 +1,2 @@
 #!/bin/bash
-cd ; cd .. ; cat etc/passwd  
+cd ; cat ../etc/passwd  
